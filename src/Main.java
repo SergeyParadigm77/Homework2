@@ -79,5 +79,6 @@ public class Main {
         numberOfEmployees = numberOfEmployees + 94;
         workTime = workTimeOneEmployee * numberOfEmployees;
         System.out.println("Если в компании работает " + numberOfEmployees + " человека, то всего " + workTime + " часа работы может быть поделено между сотрудниками.");
+        System.out.println("Домашка готова!");
     }
 }
